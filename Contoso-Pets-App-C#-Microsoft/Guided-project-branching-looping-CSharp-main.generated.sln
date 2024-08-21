@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Guided-project-branching-looping-CSharp-main", "Guided-project-branching-looping-CSharp-main", "{42B2BD60-3C80-427F-85F5-74E324E04F1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuidedProject", "GuidedProject", "{3D62613E-C20D-4219-A6B5-EA7140ECD65A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "Guided-project-branching-looping-CSharp-main\GuidedProject\Final\Final.csproj", "{AA92DE7A-2B60-42E7-8CD7-F2D75CDC9B6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\Starter.csproj", "{CD118C88-0DAF-460D-AF7E-0C9A1A90E50C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA92DE7A-2B60-42E7-8CD7-F2D75CDC9B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA92DE7A-2B60-42E7-8CD7-F2D75CDC9B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA92DE7A-2B60-42E7-8CD7-F2D75CDC9B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA92DE7A-2B60-42E7-8CD7-F2D75CDC9B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD118C88-0DAF-460D-AF7E-0C9A1A90E50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD118C88-0DAF-460D-AF7E-0C9A1A90E50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD118C88-0DAF-460D-AF7E-0C9A1A90E50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD118C88-0DAF-460D-AF7E-0C9A1A90E50C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3D62613E-C20D-4219-A6B5-EA7140ECD65A} = {42B2BD60-3C80-427F-85F5-74E324E04F1A}
+		{AA92DE7A-2B60-42E7-8CD7-F2D75CDC9B6C} = {3D62613E-C20D-4219-A6B5-EA7140ECD65A}
+		{CD118C88-0DAF-460D-AF7E-0C9A1A90E50C} = {3D62613E-C20D-4219-A6B5-EA7140ECD65A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C91EE5-0804-49B3-9CC2-03E3DD5BF3EF}
+	EndGlobalSection
+EndGlobal
